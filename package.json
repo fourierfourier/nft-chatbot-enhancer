@@ -1,0 +1,20 @@
+{
+  "name": "nft-chatbot-enhancer",
+  "version": "1.0.1",
+  "description": "Enhances nft-chatbot-core with advanced features for NFT enthusiasts.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fourierfourier69/nft-chatbot-enhancer"
+  },
+  "author": "fourierfourier69",
+  "license": "MIT",
+  "dependencies": {
+    "nft-chatbot-core": "1.0.0",
+    "natural": "^0.6.3",
+    "axios": "^0.21.1"
+  }
+}
